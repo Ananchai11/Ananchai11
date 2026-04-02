@@ -31,4 +31,12 @@ Hi 👋 My name is Ananchai
 ตัวอย่าง
 <p align="left"><img width="325" height="173" alt="image" src="https://github.com/user-attachments/assets/9a1c3356-5d6e-4475-bcb0-dfd342c1a28f" /> <img width="325" height="173" alt="image" src="https://github.com/user-attachments/assets/4c5e71eb-1616-4ac8-a391-de8eaba23939" /> </p>
 
+### งานออกแบบแอปหาคู่
+ลิงค์ figma https://www.figma.com/design/upfg43zXyE4zPOxtfp2iBl/FINLOVE-UX-UI?node-id=0-1&t=NHrTEcCArvIjIYYU-1
+
+ตัวอย่าง
+<p align="left"> <img width="172" height="203" alt="image" src="https://github.com/user-attachments/assets/894a8f2d-8b21-4723-a83d-e95eb72dcf32" />
+  <img width="172" height="203" alt="image" src="https://github.com/user-attachments/assets/48a844a4-2bc1-4add-baa4-1f596456e544" /> <img width="172" height="203" alt="image" src="https://github.com/user-attachments/assets/a1f3cae2-9b6b-4f0d-853c-dfbba6d616a0" />
+
+  </p>
 
