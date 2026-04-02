@@ -20,6 +20,6 @@ Hi 👋 My name is Ananchai
 งานทำเว็บไซต์ให้มหาลัย
 ลิงค์ figma https://www.figma.com/design/RrdQSjOm8T4AZlV5Qe2Lxa/Project?node-id=0-1&t=S4xtF8HozKLEKDJZ-1
 ตัวอย่าง
-<img width="574" height="321" alt="image" src="https://github.com/user-attachments/assets/93282d1a-7906-45d1-97b5-118dbe353c29" /><img width="1214" height="679" alt="image" src="https://github.com/user-attachments/assets/322f7288-d182-4ebb-bc25-6ee37f938f74" />
+<p align="left"><img width="574" height="321" alt="image" src="https://github.com/user-attachments/assets/93282d1a-7906-45d1-97b5-118dbe353c29" /><img width="574" height="321" alt="image" src="https://github.com/user-attachments/assets/322f7288-d182-4ebb-bc25-6ee37f938f74" /></p>
 
 
