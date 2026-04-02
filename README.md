@@ -25,7 +25,8 @@ Hi 👋 My name is Ananchai
 
 ### งาน project จบ ทำเว็บไซต์สำหรับ Admin
 ลิงค์ figma https://www.figma.com/design/CfycRLZ3q6WXADnBp1MRtt/DuangDee-Web?node-id=0-1&t=F1CpKq6SFabHGnBM-1
-ลิงค์ Cod front - end 
+
+ลิงค์ Cod front - end https://github.com/Ralinthip/DuangDee-Nodejs-Project.git
 
 ตัวอย่าง
 <p align="left"><img width="325" height="173" alt="image" src="https://github.com/user-attachments/assets/9a1c3356-5d6e-4475-bcb0-dfd342c1a28f" /> <img width="325" height="173" alt="image" src="https://github.com/user-attachments/assets/4c5e71eb-1616-4ac8-a391-de8eaba23939" /> </p>
