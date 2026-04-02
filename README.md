@@ -21,7 +21,7 @@ Hi 👋 My name is Ananchai
 ลิงค์ figma https://www.figma.com/design/RrdQSjOm8T4AZlV5Qe2Lxa/Project?node-id=0-1&t=S4xtF8HozKLEKDJZ-1
 
 ตัวอย่าง
-<p align="left"> <img width="425" height="273" alt="image" src="https://github.com/user-attachments/assets/93282d1a-7906-45d1-97b5-118dbe353c29" /> <picture> <img width="425" height="273" alt="image" src="https://github.com/user-attachments/assets/322f7288-d182-4ebb-bc25-6ee37f938f74" /> </picture> </p>
+<p align="left"> <img width="425" height="273" alt="image" src="https://github.com/user-attachments/assets/93282d1a-7906-45d1-97b5-118dbe353c29" />  <img width="425" height="273" alt="image" src="https://github.com/user-attachments/assets/322f7288-d182-4ebb-bc25-6ee37f938f74" />  </p>
 
 งาน project จบ ทำเว็บไซต์สำหรับ Admin
 ลิงค์ figma https://www.figma.com/design/CfycRLZ3q6WXADnBp1MRtt/DuangDee-Web?node-id=0-1&t=F1CpKq6SFabHGnBM-1
