@@ -36,7 +36,13 @@ Hi 👋 My name is Ananchai
 
 ตัวอย่าง
 <p align="left"> <img width="172" height="403" alt="image" src="https://github.com/user-attachments/assets/894a8f2d-8b21-4723-a83d-e95eb72dcf32" />
-  <img width="172" height="403" alt="image" src="https://github.com/user-attachments/assets/48a844a4-2bc1-4add-baa4-1f596456e544" /> <img width="172" height="403" alt="image" src="https://github.com/user-attachments/assets/a1f3cae2-9b6b-4f0d-853c-dfbba6d616a0" />
+  <img width="172" height="403" alt="image" src="https://github.com/user-attachments/assets/48a844a4-2bc1-4add-baa4-1f596456e544" /> <img width="172" height="403" alt="image" src="https://github.com/user-attachments/assets/a1f3cae2-9b6b-4f0d-853c-dfbba6d616a0" /> </p>
 
-  </p>
+### งานออกแบบแอปจองคิวแพทย์
+ลิงค์ figma https://www.figma.com/design/2OGLlU5XjT7RoN3UVtEqvE/Telemedicine-App?node-id=2-2&t=Y4GWj1aWrcqQXVMz-1
 
+ตัวอย่าง
+<p align="left"> <img width="165" height="363" alt="image" src="https://github.com/user-attachments/assets/136d35a5-d931-4a4c-a897-511719428ae6" />
+  <img width="165" height="358" alt="image" src="https://github.com/user-attachments/assets/75f8bd61-690e-4b63-b343-e78b712eddbc" />
+ <img width="165" height="362" alt="image" src="https://github.com/user-attachments/assets/4017b748-5bff-4c7b-b4d9-5f4cac4980c4" />
+ </p>
