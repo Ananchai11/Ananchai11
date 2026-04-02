@@ -19,7 +19,14 @@ Hi 👋 My name is Ananchai
 
 งานทำเว็บไซต์ให้มหาลัย
 ลิงค์ figma https://www.figma.com/design/RrdQSjOm8T4AZlV5Qe2Lxa/Project?node-id=0-1&t=S4xtF8HozKLEKDJZ-1
+
 ตัวอย่าง
-<p align="left"> <img width="574" height="321" alt="image" src="https://github.com/user-attachments/assets/93282d1a-7906-45d1-97b5-118dbe353c29" /> <picture> <img width="574" height="321" alt="image" src="https://github.com/user-attachments/assets/322f7288-d182-4ebb-bc25-6ee37f938f74" /> </picture> </p>
+<p align="left"> <img width="425" height="273" alt="image" src="https://github.com/user-attachments/assets/93282d1a-7906-45d1-97b5-118dbe353c29" /> <picture> <img width="425" height="273" alt="image" src="https://github.com/user-attachments/assets/322f7288-d182-4ebb-bc25-6ee37f938f74" /> </picture> </p>
+
+งาน project จบ ทำเว็บไซต์สำหรับ Admin
+ลิงค์ figma https://www.figma.com/design/CfycRLZ3q6WXADnBp1MRtt/DuangDee-Web?node-id=0-1&t=F1CpKq6SFabHGnBM-1
+
+ตัวอย่าง
+<p align="left"><img width="425" height="273" alt="image" src="https://github.com/user-attachments/assets/9a1c3356-5d6e-4475-bcb0-dfd342c1a28f" /> <picture> <img width="425" height="273" alt="image" src="https://github.com/user-attachments/assets/4c5e71eb-1616-4ac8-a391-de8eaba23939" /> </picture> </p>
 
 
