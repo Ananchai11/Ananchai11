@@ -1,4 +1,4 @@
-<h1 align="center">สวัสดีครับ 👋 ผมอนันท์ชัย คำต่อม</h1>
+<h1 align="center">สวัสดีครับ ผมอนันท์ชัย คำต่อม</h1>
 <h3 align="center">Junior Full Stack Developer | Bangkok, Thailand</h3>
 
 <p align="center">
@@ -63,7 +63,7 @@
 ### 🌐 Socials
 
 <p align="left">
-<a href="https://www.facebook.com/ananchai.kamtom" target="_blank" rel="noreferrer">
+<a href="https://www.facebook.com/ffirst.ananchai.kamtom" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" title="Facebook" />
 </a>
 <a href="https://www.github.com/Ananchai11" target="_blank" rel="noreferrer">
