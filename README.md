@@ -23,10 +23,11 @@ Hi 👋 My name is Ananchai
 ตัวอย่าง
 <p align="left"> <img width="325" height="173" alt="image" src="https://github.com/user-attachments/assets/93282d1a-7906-45d1-97b5-118dbe353c29" />  <img width="325" height="173" alt="image" src="https://github.com/user-attachments/assets/322f7288-d182-4ebb-bc25-6ee37f938f74" />  </p>
 
-### งาน project จบ ทำเว็บไซต์สำหรับ Admin
-ลิงค์ figma https://www.figma.com/design/CfycRLZ3q6WXADnBp1MRtt/DuangDee-Web?node-id=0-1&t=F1CpKq6SFabHGnBM-1
-
-ลิงค์ Cod front - end https://github.com/Ralinthip/DuangDee-Nodejs-Project.git
+### Duangdee Application: แอปพลิเคชั้นสำหรับตรวจดวงชะตา แบบพกพาพร้อมระบบเว็ปไซต์หลังบ้าน (Senior Project)
+- **Application Repo:** [DuangDee-Kotlin-Project](https://github.com/Ananchai11/DuangDee-Kotlin-Project)
+- **Backend Repo:** [DuangDee-Nodejs-Project](https://github.com/Ananchai11/DuangDee-Nodejs-Project.git)
+- **Frontend Repo:** [DuangDee-React-Project](https://github.com/Ananchai11/DuangDee-React-Project.git)
+- **UX/UI Link:** [Figma-Design](https://www.figma.com/design/CfycRLZ3q6WXADnBp1MRtt/DuangDee-Web?node-id=0-1&t=F1CpKq6SFabHGnBM-1)
 
 ตัวอย่าง
 <p align="left"><img width="325" height="173" alt="image" src="https://github.com/user-attachments/assets/9a1c3356-5d6e-4475-bcb0-dfd342c1a28f" /> <img width="325" height="173" alt="image" src="https://github.com/user-attachments/assets/4c5e71eb-1616-4ac8-a391-de8eaba23939" /> </p>
